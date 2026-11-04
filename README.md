@@ -22,6 +22,11 @@ Some of my projects include:
 Python · C · C++ · Java · SQL · Machine Learning · Deep Learning · Cybersecurity · Cryptography · Homomorphic Encryption · Linux · Software Engineering
 
 ### Contact
+
+Feel free to reach out for collaborations, research opportunities or interesting projects:
+
+**Email**: castillevp@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/castille-vuillet-petite-721275240/
 <!--
 **castille-vllt/castille-vllt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
