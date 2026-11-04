@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# About-Me
-
 Computer Science and Business student at **INSA Lyon & emlyon business school**, with an academic background in Mathematics, Computer Science and Law.
 
 Interested in **Artificial Intelligence, Machine Learning, Cybersecurity and Privacy-Preserving Technologies**. I enjoy exploring the intersection of software engineering, data science and security.
